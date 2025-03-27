@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/asiatique-travel/static/css/main.ce10b332.css",
+    "main.js": "/asiatique-travel/static/js/main.096ef393.js",
+    "static/media/background.jpg": "/asiatique-travel/static/media/background.9cfc6e6b771f5bfabfa5.jpg",
+    "static/media/booking-bg.png": "/asiatique-travel/static/media/booking-bg.f99b4ec23d514320b3a8.png",
+    "static/media/plane.svg": "/asiatique-travel/static/media/plane.469f715ab144ee473c37.svg",
+    "static/media/money.svg": "/asiatique-travel/static/media/money.8902b82412d270b57159f544b64e7e55.svg",
+    "static/media/logo.svg": "/asiatique-travel/static/media/logo.b5ff0ff5bab05ad0ef4cc5905b460f72.svg",
+    "static/media/document.svg": "/asiatique-travel/static/media/document.832fc644dc11dd3b43a28432dcef282a.svg",
+    "static/media/suitcase.svg": "/asiatique-travel/static/media/suitcase.bf35ee993e4696260c45cd7562a75b58.svg",
+    "static/media/call.svg": "/asiatique-travel/static/media/call.d368517de95d1eb74494e052133ab934.svg",
+    "static/media/pen.svg": "/asiatique-travel/static/media/pen.6e4164127edd0efafd14496f51efe2d1.svg",
+    "index.html": "/asiatique-travel/index.html",
+    "static/media/click.svg": "/asiatique-travel/static/media/click.24645238e0f291023da35fcfd4dfee9b.svg",
+    "main.ce10b332.css.map": "/asiatique-travel/static/css/main.ce10b332.css.map",
+    "main.096ef393.js.map": "/asiatique-travel/static/js/main.096ef393.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce10b332.css",
+    "static/js/main.096ef393.js"
+  ]
+}
