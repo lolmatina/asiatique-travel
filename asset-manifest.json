@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/asiatique-travel/static/css/main.ce10b332.css",
-    "main.js": "/asiatique-travel/static/js/main.096ef393.js",
+    "main.js": "/asiatique-travel/static/js/main.81718f05.js",
     "static/media/background.jpg": "/asiatique-travel/static/media/background.9cfc6e6b771f5bfabfa5.jpg",
     "static/media/booking-bg.png": "/asiatique-travel/static/media/booking-bg.f99b4ec23d514320b3a8.png",
     "static/media/plane.svg": "/asiatique-travel/static/media/plane.469f715ab144ee473c37.svg",
@@ -14,10 +14,10 @@
     "index.html": "/asiatique-travel/index.html",
     "static/media/click.svg": "/asiatique-travel/static/media/click.24645238e0f291023da35fcfd4dfee9b.svg",
     "main.ce10b332.css.map": "/asiatique-travel/static/css/main.ce10b332.css.map",
-    "main.096ef393.js.map": "/asiatique-travel/static/js/main.096ef393.js.map"
+    "main.81718f05.js.map": "/asiatique-travel/static/js/main.81718f05.js.map"
   },
   "entrypoints": [
     "static/css/main.ce10b332.css",
-    "static/js/main.096ef393.js"
+    "static/js/main.81718f05.js"
   ]
 }
